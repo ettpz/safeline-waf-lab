@@ -10,34 +10,34 @@ Goals include:
 - Test SafeLine's effectiveness in detecting and mitigating threats
 - Create a security assessment report
 
-  --
+--
 
-  ## Lab Setup
-
-
-  --
-
-  ## Tools Used
+## Lab Setup
 
 
-  --
+--
 
-  ## Attacks Simulated
-
-
-  --
-
-  ## Key Learnings
+## Tools Used
 
 
-  --
+--
 
-  ## Project Structure
-
-
-  --
-
-  ## Resources
+## Attacks Simulated
 
 
-  --
+--
+
+## Key Learnings
+
+
+--
+
+## Project Structure
+
+
+--
+
+## Resources
+
+
+--

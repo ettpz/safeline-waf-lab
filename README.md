@@ -3,7 +3,7 @@
 
 ## Overview 
 
-This project aims to simulate a real-worl Web Application Firewall (WAF) deployment using [SafeLine](https://www.safelinewaf.com/). 
+This project aims to simulate a real-worl Web Application Firewall (WAF) deployment using [SafeLine]([https://www.safelinewaf.com/](https://github.com/chaitin/SafeLine)). 
 Goals include:
 - Deploy a WAF in a virtual lab
 - Simulate commen web attacks such as **HTTP Flood** and **SQL Injection**
